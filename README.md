@@ -2,7 +2,7 @@
 - 👀 I’m interested in C, PHP, Java, ElasticSearch
 - 🌱 I’m currently learning DigitalOcean platform
 - 💞️ I’m looking to collaborate on a Java project
-- 📫 denniskozevnikoff@gmail.com
+- 📫 dennis.kozevnikoff@gmail.com
 
 <!---
 denniskozevnikoff/denniskozevnikoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
