@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @denniskozevnikoff
-- 👀 I’m interested in C, PHP, Java, ElasticSearch
-- 🌱 I’m currently learning DigitalOcean platform
+- 👀 I’m interested in C, PHP, Java, Python
 - 💞️ I’m looking to collaborate on a Java project
 - 📫 dennis.kozevnikoff@gmail.com
 
