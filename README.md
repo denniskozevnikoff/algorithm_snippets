@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denniskozevnikoff
-- 👀 I’m interested in C, PHP, Java, Python
+- 👀 I’m interested in Java, Python and PHP
 - 💞️ I’m looking to collaborate on a Java project
 - 📫 dennis.kozevnikoff@gmail.com
 
