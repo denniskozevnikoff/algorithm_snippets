@@ -14,20 +14,11 @@ a.next = b;
 b.next = c;
 c.next = d;
 
-//   a -> b -> c -> d -> null
-// curr
-
 
 const printLinkedList = (head) => {
-    let current = head;
-    if(current != null) {
-        console.log(current.val); 
-        printLinkedList(current.next);
-    }
-       
-        
-     
-    
+    if(head == null) return;
+    console.log(head.val); 
+    printLinkedList(head.next);
 };
 
 printLinkedList(a);
