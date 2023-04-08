@@ -1,0 +1,16 @@
+package com.husserl;
+
+public class DSA {
+    public static void main(String[] args) {
+        String str = "hello ";
+        String rev = rev(str);
+        System.out.println(rev);
+    }
+
+
+    public static String rev(String input){
+        if ( input.equals("") ) return "";
+        return rev(input.substring(1)) + input.charAt(0);
+    }
+}
+
